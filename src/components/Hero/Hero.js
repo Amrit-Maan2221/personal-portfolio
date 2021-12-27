@@ -14,7 +14,7 @@ const Hero = (props) => (
       <SectionText>
         Second Year Software Engineering Technology Student at Conestoga College who gets a genuine kick out of leveraging technology.
       </SectionText>
-      <Button onClick={() => window.location = "https://www.linkedin.com/in/amritpal-singh-11212001/"}> Reach Out</Button>
+      <Button onClick={() => window.location.href = "/Resume_Amrit.pdf"}> Get Resume </Button>
     </LeftSection>
   </Section>
 );
