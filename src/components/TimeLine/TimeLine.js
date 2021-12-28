@@ -20,7 +20,7 @@ const Timeline = () => {
         the chance to study anything related to programming that is available online.
         I also learned Full Stack Web Development on LinkedIn learning. Having skills of various programming languages
         I have individually developed many small projects. I look forward to advance my programming skills daily
-        and serve the world with this.
+        and serve the world with these skills.
         <br />
         I also do part time work at Circle K Gas Station in Kitchener. I was also a IELTS trainer and I have helped
         many students to get the desired band score in IELTS. Also working at Gas Station and IELTS helped me at lot
