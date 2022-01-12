@@ -56,12 +56,12 @@ export const projects = [
     id: 6,
   },
   {
-    title: 'C# Client Server Model Game',
+    title: 'C# Client Server Model',
     description: "A Simple C# Game based on client server model in which a user has to guess the right number that matches the number guessed by the client based on TCP-IP Interprocess Communication.",
     tags: ['C#', 'TCP-IP', 'Sockets'],
     source: 'https://github.com/Amrit-Maan2221/C-game-based-on-client-server-model',
     visit: 'https://github.com/Amrit-Maan2221/C-game-based-on-client-server-model',
-    id: 6,
+    id: 7,
   },
 
 
