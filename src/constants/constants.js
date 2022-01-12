@@ -24,7 +24,7 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'News Website',
+    title: 'MAAN NEWS- News Website',
     description: "A News Website built using ReactJS styled with the help of Bootstrap. It loads news with the use of an Free API avaiable on the internet.",
     tags: ['ReactJs', 'Bootstrap'],
     source: 'https://github.com/Amrit-Maan2221/News-website-ReactJs',
@@ -38,5 +38,31 @@ export const projects = [
     source: 'https://github.com/Amrit-Maan2221/Text-Editor-Using-React',
     visit: 'https://github.com/Amrit-Maan2221/Text-Editor-Using-React',
     id: 4,
-  }
+  },
+  {
+    title: 'iNotebook- Your Notes on Cloud',
+    description: "A Web App which helps the user to make and store their Notes on the cloud.",
+    tags: ['ReactJs', 'MongoDB', 'NodeJS', 'ExpressJS'],
+    source: 'https://github.com/Amrit-Maan2221/iNotebook-MERN',
+    visit: 'https://under-work.vercel.app/',
+    id: 5,
+  },
+  {
+    title: 'Amazon Clone',
+    description: "Amazon Clone done using ReactJs with authetication system done with the help of firebase (Currently UnderWork)",
+    tags: ['ReactJs', 'Firebase'],
+    source: 'https://github.com/Amrit-Maan2221/Amazon-clone-using-React',
+    visit: 'https://clone-by-amrit.web.app/',
+    id: 6,
+  },
+  {
+    title: 'C# Client Server Model Game',
+    description: "A Simple C# Game based on client server model in which a user has to guess the right number that matches the number guessed by the client based on TCP-IP Interprocess Communication.",
+    tags: ['C#', 'TCP-IP', 'Sockets'],
+    source: 'https://github.com/Amrit-Maan2221/C-game-based-on-client-server-model',
+    visit: 'https://github.com/Amrit-Maan2221/C-game-based-on-client-server-model',
+    id: 6,
+  },
+
+
 ];
