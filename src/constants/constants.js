@@ -40,19 +40,19 @@ export const projects = [
     id: 4,
   },
   {
-    title: 'iNotebook- Your Notes on Cloud',
-    description: "A Web App which helps the user to make and store their Notes on the cloud.",
-    tags: ['ReactJs', 'MongoDB', 'NodeJS', 'ExpressJS'],
-    source: 'https://github.com/Amrit-Maan2221/iNotebook-MERN',
-    visit: 'https://under-work.vercel.app/',
-    id: 5,
-  },
-  {
     title: 'Amazon Clone',
     description: "Amazon Clone done using ReactJs with authetication system done with the help of firebase (Currently UnderWork)",
     tags: ['ReactJs', 'Firebase'],
     source: 'https://github.com/Amrit-Maan2221/Amazon-clone-using-React',
     visit: 'https://clone-by-amrit.web.app/',
+    id: 5,
+  },
+  {
+    title: 'iNotebook- Your Notes on Cloud',
+    description: "A Web App which helps the user to make and store their Notes on the cloud.",
+    tags: ['ReactJs', 'MongoDB', 'NodeJS', 'ExpressJS'],
+    source: 'https://github.com/Amrit-Maan2221/iNotebook-MERN',
+    visit: 'https://under-work.vercel.app/',
     id: 6,
   },
   {
