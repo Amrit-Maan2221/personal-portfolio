@@ -18,7 +18,7 @@ const Technologies = () => (
           <DiJava size="3rem" />
           <ListTitle>Programming Languages </ListTitle>
           <ListParagraph>
-            JavaScript, C#, C, C++, Java, HTML5, CSS
+            JavaScript, C#, C, C++, Java, Python, HTML5, CSS
           </ListParagraph>
         </ListContainer>
       </ListItem>
